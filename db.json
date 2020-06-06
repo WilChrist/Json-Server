@@ -1,0 +1,80 @@
+{
+  "centers": [
+    {
+      "id": 1,
+      "name": "Hôpital Jamot",
+      "type": "public",
+      "image": "https://images.unsplash.com/photo-1497110781426-d735b42692bb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1385&q=80",
+      "description": "Unfortunately, Cameroon is no exception and has few government run mental health facilities to care for psychiatric patients (Hôpital Jamot Yaoundé and Laquintinie in Douala), where the few psychiatrists are working. In nearly all the regions, the mental health units in the Regional Hospitals are not functional due to a lack of specialised staff. Some mental health personnel is working, however not organised in a structure. Traditional practitioners, pastors and priests are trying to fill the gap and are treating mental health patients, often to no avail.",
+      "location": "Quartier Mballa II, B.P 4021 - Yaoundé",
+      "phoneNumbers": "222 20 43 90,222 20 31 65,222 21 53 09,222 21 52 26",
+      "email": "hopital@jamot.com",
+      "website": "hopitaljamot.com",
+      "created_at": "2001-05-15",
+      "updated_at": "2002-07-12"
+    },
+    {
+        "id": 2,
+        "name": "Clinique Laquint",
+        "type": "privvate",
+        "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1335&q=80",
+        "description": "WHO states that integrated care helps to reduce the stigma associated with seeking help from stand-alone mental health services. An integrated service encourages the early identification and treatment of such disorders and thus reduces disability. Among other possible benefits are the provisions of care in the community and opportunities for community involvement in care.",
+        "location": "Quartier Enong IV, B.P 1221 - Douala",
+        "phoneNumbers": "222 20 43 90,222 20 31 65,222 21 53 09,222 21 52 26",
+        "email": "clinique@laquint.com",
+        "website": "cliniquelaquint.com",
+        "created_at": "2000-04-05",
+        "updated_at": "2007-01-21"
+      }
+  ],
+  "professionals": [
+      {
+        "id": 1,
+        "first_name": "Cynthia",
+        "last_name": "Oluwe",
+        "type": "private",
+        "image": "https://images.pexels.com/photos/3746277/pexels-photo-3746277.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "description": "Cynthia developed the theories of cognitive dissonance and social comparison. Cognitive dissonance is the state of discomfort you feel when you hold two conflicting beliefs. You may smoke even though you know it is bad for your health. His social comparison theory says that you evaluate your ideas by comparing them with what other people believe. You are also more likely to seek out other people who share your beliefs and values.",
+        "location": "7401, rue Hochelaga (Road N5) Montréal (Québec)  H1N 3M5",
+        "phoneNumbers": "514 251-4000, 514 252-3400",
+        "email": "cynthwe@laquint.com",
+        "website": "cliniquelaquint.com",
+        "created_at": "2010-04-05",
+        "updated_at": "2012-04-05",
+    
+        "centerId": 2
+      },
+      {
+        "id": 2,
+        "first_name": "Sigmund",
+        "last_name": "Freud",
+        "type": "public",
+        "image": "https://cdn.pixabay.com/photo/2016/11/29/12/38/adult-1869556_960_720.jpg",
+        "description": "When people think of psychology, many tend to think of Sigmund Freud. His work supported the belief that not all mental illnesses have physiological causes and he also offered evidence that cultural differences have an impact on psychology and behavior. His work and writings contributed to our understanding of personality, clinical psychology, human development, and abnormal psychology.",
+        "location": "7401, rue Hochelaga (Road 25) Montréal (Québec)  H1N 3M5",
+        "phoneNumbers": "514 728-7447",
+        "email": "Sigmund@Freud.com",
+        "website": "SigmundFreud.com",
+        "created_at": "2001-07-01",
+        "updated_at": "2003-06-05",
+    
+        "centerId": 1
+      },
+      {
+        "id": 3,
+        "first_name": "Erika",
+        "last_name": "Erikson",
+        "type": "public",
+        "image": "https://images.pexels.com/photos/2764976/pexels-photo-2764976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "description": "Erika's stage theory of psychosocial development helped create interest and research on human development through the lifespan. An ego psychologist who studied with Anna Freud, Erikson expanded psychoanalytic theory by exploring development throughout life, including events of childhood, adulthood, and old age.",
+        "location": "4714, rue Jean-Talon  H1N 3M5",
+        "phoneNumbers": "514 728-7447",
+        "email": "Sigmund@Erikson.com",
+        "website": "Erikson.com",
+        "created_at": "2016-07-01",
+        "updated_at": "2017-06-05",
+    
+        "centerId": 0
+      }
+  ]
+}
