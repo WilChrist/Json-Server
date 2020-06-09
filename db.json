@@ -15,6 +15,19 @@
     },
     {
         "id": 2,
+        "name": "Johns Hopkins Hospital",
+        "type": "public",
+        "image": "https://www.hopkinsmedicine.org/sebin/h/d/the-johns-hopkins-hospital.jpg",
+        "description": "Johns Hopkins Hospital in Baltimore, MD is ranked No. 3 on the Best Hospitals Honor Roll and No. 9 on the Best Children's Honor Roll. It is nationally ranked in 15 adult and 10 pediatric specialties and rated high performing in 7 adult procedures and conditions. It is a general medical and surgical facility. It is a teaching hospital. Johns Hopkins Hospital consists of 1 location: Johns Hopkins Children's Center. See the Contact and Location section for additional information.",
+        "location": "1800 Orleans Street, Baltimore, MD 21287-2182",
+        "phoneNumbers": "844-741-0147,222 21 53 09",
+        "email": "hopital@hopkinsmedicine.com",
+        "website": "https://www.hopkinsmedicine.org/",
+        "created_at": "2008-05-05",
+        "updated_at": "2009-02-02"
+      },
+    {
+        "id": 3,
         "name": "Clinique Laquint",
         "type": "privvate",
         "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1335&q=80",
@@ -25,6 +38,19 @@
         "website": "cliniquelaquint.com",
         "created_at": "2000-04-05",
         "updated_at": "2007-01-21"
+      },
+      {
+        "id": 4,
+        "name": "Massachusetts General Hospital",
+        "type": "private",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Massachusetts_General_Hospital_logo.svg/1200px-Massachusetts_General_Hospital_logo.svg.png",
+        "description": "Massachusetts General Hospital in Boston, MA is ranked No. 2 on the Best Hospitals Honor Roll. It is nationally ranked in 16 adult and 5 pediatric specialties and rated high performing in 9 adult procedures and conditions. It is a general medical and surgical facility. It is a teaching hospital. Massachusetts General Hospital consists of 1 location: MassGeneral Hospital for Children. See the Contact and Location section for additional information..",
+        "location": "55 Fruit Street Boston, MA 02114-2696",
+        "phoneNumbers": "(617) 726-2000,(617) 726-2001",
+        "email": "contact@massgeneral.com",
+        "website": "https://www.massgeneral.org/",
+        "created_at": "2005-07-15",
+        "updated_at": "2013-11-01"
       }
   ],
   "professionals": [
@@ -33,6 +59,7 @@
         "first_name": "Cynthia",
         "last_name": "Oluwe",
         "type": "private",
+        "speciality":"Psychiatry / General Psychiatry, Addiction, Gay, Lesbian, Transgender Focused, Women Focused",
         "image": "https://images.pexels.com/photos/3746277/pexels-photo-3746277.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
         "description": "Cynthia developed the theories of cognitive dissonance and social comparison. Cognitive dissonance is the state of discomfort you feel when you hold two conflicting beliefs. You may smoke even though you know it is bad for your health. His social comparison theory says that you evaluate your ideas by comparing them with what other people believe. You are also more likely to seek out other people who share your beliefs and values.",
         "location": "7401, rue Hochelaga (Road N5) Montréal (Québec)  H1N 3M5",
@@ -49,6 +76,7 @@
         "first_name": "Sigmund",
         "last_name": "Freud",
         "type": "public",
+        "speciality":"Psychiatry / General Psychiatry, Child & Adolescent Psychiatry",
         "image": "https://cdn.pixabay.com/photo/2016/11/29/12/38/adult-1869556_960_720.jpg",
         "description": "When people think of psychology, many tend to think of Sigmund Freud. His work supported the belief that not all mental illnesses have physiological causes and he also offered evidence that cultural differences have an impact on psychology and behavior. His work and writings contributed to our understanding of personality, clinical psychology, human development, and abnormal psychology.",
         "location": "7401, rue Hochelaga (Road 25) Montréal (Québec)  H1N 3M5",
@@ -65,6 +93,7 @@
         "first_name": "Erika",
         "last_name": "Erikson",
         "type": "public",
+        "speciality":"Psychiatry / General Psychiatry",
         "image": "https://images.pexels.com/photos/2764976/pexels-photo-2764976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
         "description": "Erika's stage theory of psychosocial development helped create interest and research on human development through the lifespan. An ego psychologist who studied with Anna Freud, Erikson expanded psychoanalytic theory by exploring development throughout life, including events of childhood, adulthood, and old age.",
         "location": "4714, rue Jean-Talon  H1N 3M5",
@@ -75,6 +104,23 @@
         "updated_at": "2017-06-05",
     
         "centerId": 0
+      },
+      {
+        "id": 4,
+        "first_name": "Cheri",
+        "last_name": "Blauwet",
+        "type": "public",
+        "speciality":"Pediatric Neurology / General Child Neurology",
+        "image": "https://images.pexels.com/photos/2764976/pexels-photo-2764976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "description": "Dr. Cheri Blauwet is a physiatrist in Boston, Massachusetts and is affiliated with multiple hospitals in the area. He has been in practice between 6-10 years.",
+        "location": "2314, Boston, MA  H1N 3M5",
+        "phoneNumbers": "814 728-7227",
+        "email": "Blauwet@massgeneral.com",
+        "website": "massgeneral.com",
+        "created_at": "2016-01-11",
+        "updated_at": "2018-09-15",
+    
+        "centerId": 4
       }
   ]
 }
