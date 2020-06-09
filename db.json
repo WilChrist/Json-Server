@@ -29,7 +29,7 @@
     {
         "id": 3,
         "name": "Clinique Laquint",
-        "type": "privvate",
+        "type": "private",
         "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1335&q=80",
         "description": "WHO states that integrated care helps to reduce the stigma associated with seeking help from stand-alone mental health services. An integrated service encourages the early identification and treatment of such disorders and thus reduces disability. Among other possible benefits are the provisions of care in the community and opportunities for community involvement in care.",
         "location": "Quartier Enong IV, B.P 1221 - Douala",
@@ -128,7 +128,7 @@
         "last_name": "I. Alabre",
         "type": "public",
         "speciality":"Internal Medicine / General Internal Medicine",
-        "image": "http://blacknosejob.com/wp-content/uploads/2013/01/dr20112.png",
+        "image": "http://epmgaa.media.clients.ellingtoncms.com/img/photos/2016/02/04/Screen_Shot_2016-02-04_at_6.52.32_PM.png",
         "description": "Dr. Claude I. Alabre is an internist in Boston, Massachusetts and is affiliated with one hospital. He has been in practice between 6-10 years. General internal medicine physicians, or internists, are primary-care doctors who perform physical exams and treat a wide spectrum of common illnesses in adult men and women.",
         "location": "2314, Boston, MA  H1N 3M5",
         "phoneNumbers": "814 728-7227",
