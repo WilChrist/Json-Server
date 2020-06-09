@@ -121,6 +121,23 @@
         "updated_at": "2018-09-15",
     
         "centerId": 4
+      },
+      {
+        "id": 5,
+        "first_name": "Claude",
+        "last_name": "I. Alabre",
+        "type": "public",
+        "speciality":"Internal Medicine / General Internal Medicine",
+        "image": "http://blacknosejob.com/wp-content/uploads/2013/01/dr20112.png",
+        "description": "Dr. Claude I. Alabre is an internist in Boston, Massachusetts and is affiliated with one hospital. He has been in practice between 6-10 years. General internal medicine physicians, or internists, are primary-care doctors who perform physical exams and treat a wide spectrum of common illnesses in adult men and women.",
+        "location": "2314, Boston, MA  H1N 3M5",
+        "phoneNumbers": "814 728-7227",
+        "email": "Claude@massgeneral.com",
+        "website": "massgeneral.com",
+        "created_at": "2006-03-16",
+        "updated_at": "2010-07-19",
+    
+        "centerId": 4
       }
   ]
 }
